@@ -1,0 +1,7 @@
+*.out
+
+# ignore any file without extension:
+# courtesy https://stackoverflow.com/a/19023985
+ex*
+!/**/
+!*.*
